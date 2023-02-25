@@ -1,6 +1,6 @@
 ---
-title: Mi Web
-feature_image: "./assets/989-1300x400.jpg"
+title: Delegación Provicial de Tiro Olímpico de Valladolid
+feature_image: "./assets/Cosas2.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
