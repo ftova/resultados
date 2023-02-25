@@ -21,19 +21,17 @@ layout: page
     </ul>
 </div>
 
-<!-- <div class="post-descr">
+<div class="post-descr">
     <p>
-        {{ post.description }}
+        {{ post.content }}
     </p>
-</div> -->
-<div class="post-content">
-    {{ post.content }}
-</div>
+</div> 
+
 {% endfor %}
 
 
 <div class="post-footer">
     <div class="column-full">
-        <h3><a href="{{ 'archive' | relative_url }}">Blog archive</a></h3>
+        <h3><a href="{{ 'archive' | relative_url }}">Archivo</a></h3>
     </div>
 </div>
