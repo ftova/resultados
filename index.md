@@ -20,4 +20,4 @@ A continuación se muestran los resultados de 2023:
 | **Marzo** |      |   |   |   |
 | 19/03/23 | Pistola F. Central 30+30 | Valladolid | Autonómica |  |
 | 26/03/23 | Armas Hitóricas/Piñal | Valladolid | Autonómica(*) |  |
-| **Marzo** |      |   |   |   |
+| **Abril** |      |   |   |   |
