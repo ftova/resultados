@@ -2,7 +2,7 @@
 layout: post
 title: "Pistola Standard Autonómica"
 date: 2023-02-12 16:25:06
-description: Resultados ya publicados
+description: Resultados ya publicados <a href='../../../resultados/2023/sample.pdf'>ACTA</a>
 tags: 
  - autonomico
 ---
