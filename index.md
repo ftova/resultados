@@ -4,7 +4,9 @@ feature_image: "./assets/Cosas2.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Texto de introducción
+FDTO DE CyL - DELEGACIÓN DE VALLADOLID 2.023
+CAMPEONATOS DE CARACTER AUTONÓMICO, REGIONAL, Y FASES PRELIMINARES 
+VALEDERAS PARA RENOVACION DE PRIMERA (*)
 
 ## Resultados 2023
 
