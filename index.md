@@ -28,7 +28,7 @@ A continuación se muestran los resultados de 2023:
 | 14/05/23       | Pistola F. Central 30+30 | Valladolid | Autonómica(*) |                                                                                              | 
 | 21/05/23       | Pistola Velocidad        | Valladolid | Autonómica(*) |                                                                                              | 
 | **Junio**      |                          |            |               |                                                                                              | 
-| 04/06/23       | Pistola Libre 50 m.      | Valladolid | Autonómica    |                                                                                              | 
+| 04/06/23       | Pistola Libre 50 m.      | Valladolid | Autonómica(*) |                                                                                              | 
 | 18/06/23       | Pistola Standard         | Valladolid | Autonómica    |                                                                                              |
 | **Julio**      |                          |            |               |                                                                                              |
 | 09/07/23       | Carabina Ligera m/a      | Valladolid | Autonómica    |                                                                                              |
@@ -38,7 +38,7 @@ A continuación se muestran los resultados de 2023:
 | 06/08/23       | Pistola 9mm              | Valladolid | Autonómica    |                                                                                              |
 | 13/08/23       | Armas Hitóricas/Piñal    | Valladolid | Autonómica    |                                                                                              |
 | **Septiembre** |                          |            |               |                                                                                              |
-| 02y09/23       | Pistola Standard         | Salamanca  | Autonómica(*) |                                                                                              | 
+| 02y03/09/23    | Pistola Standard         | Salamanca  | Autonómica(*) |                                                                                              | 
 | 10/09/23       | Pistola Velocidad        | Valladolid | Autonómica    |                                                                                              |
 | 17/09/23       | Pistola 9mm              | Valladolid | Autonómica    |                                                                                              |
 | 24/09/23       | Carabina Ligera Tendido  | Valladolid | Autonómica    |                                                                                              |
@@ -47,8 +47,8 @@ A continuación se muestran los resultados de 2023:
 | 22/10/23       | Pistola Standard         | Valladolid | Autonómica    |                                                                                              |
 | **Noviembre**  |                          |            |               |                                                                                              |
 | 12/11/23       | Pistola 9mm              | Valladolid | Autonómica    |                                                                                              |
-| 26/11/23       | Armas Neumáticas 10 m.   | Valladolid | Open          |                                                                                              
+| 26/11/23       | Armas Neumáticas 10 m.   | Valladolid | Autonómica    |                                                                                              
 | **Diciembre**  |                          |            |               |                                                                                              |
-| 03/12/23       | Pistola 9mm              | Valladolid | Autonómica    |                                                                                              |
+| 03/12/23       | Pistola F.Central 30+30  | Valladolid | Autonómica    |                                                                                              |
 | 17/12/23       | Armas Hitóricas/Piñal    | Valladolid | Autonómica    |                                                                                              |
 
