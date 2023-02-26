@@ -15,7 +15,7 @@ A continuación se muestran los resultados de 2023:
 | Fecha      | Titulo | Localidad     | Categoría    | Resultados | 
 |    :----:   |    :----:   |    :----:   |     :----:   |     :----:   |
 | **Febrero** |      |   |   |   |
-| 12/04/23 | Pistola Standard | Valladolid | Autonómica |  |  {% include button.html text="Acta ⬇️" link="./resultados/2023/1ps120223.pdf" color="#0366d6" %} |
+| 12/04/23 | Pistola Standard | Valladolid | Autonómica | {% include button.html text="Acta ⬇️" link="./resultados/2023/1ps120223.pdf" color="#0366d6" %} |
 | 26/02/23 | Pistola 9mm | Valladolid | Autonómica(*) | {% include button.html text="Acta ⬇️" link="./resultados/2023/sample.pdf" color="#0366d6" %} |
 | **Marzo** |      |   |   |   |
 | 19/03/23 | Pistola F. Central 30+30 | Valladolid | Autonómica |  |
