@@ -19,5 +19,9 @@ A continuación se muestran los resultados de 2023:
 | 26/02/23 | Pistola 9mm | Valladolid | Autonómica(*) | {% include button.html text="Acta ⬇️" link="./resultados/2023/sample.pdf" color="#0366d6" %} |
 | **Marzo** |      |   |   |   |
 | 19/03/23 | Pistola F. Central 30+30 | Valladolid | Autonómica |  |
-| 26/03/23 | Armas Hitóricas/Piñal | Valladolid | Autonómica(*) |  |
+| 26/03/23 | Armas Hitóricas/Piñal | Valladolid | Autonómica |  |
 | **Abril** |      |   |   |   |
+| 02/03/23 | Armas Hitóricas/Piñal | Burgos | Autonómica |  |
+| 15y16/03/23 | Armas Neumáticas 10 m. | Valladolid | Open |  |
+| 23/03/23 | Pistola Libre 50 m. | Valladolid | Autonómica |  | 
+| **Mayo** |      |   |   |   | 
