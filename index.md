@@ -43,4 +43,6 @@ A continuación se muestran los resultados de 2023:
 | 17/09/23       | Pistola 9mm              | Valladolid | Autonómica    |                                                                                              |
 | 24/09/23       | Carabina Ligera Tendido  | Valladolid | Autonómica    |                                                                                              |
 | **Octubre**    |                          |            |               |                                                                                              |
-
+| 13/08/23       | Armas Hitóricas/Piñal    | Valladolid | Autonómica    |                                                                                              |
+| 18/06/23       | Pistola Standard         | Valladolid | Autonómica    |                                                                                              |
+| **Noviembre**  |                          |            |               |                                                                                              |
